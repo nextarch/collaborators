@@ -2,7 +2,7 @@
 NextArch Collaborators will be committed to working in the open on GitHub: https://github.com/nextarch/collaborators
 
 ## Collaborators Lists
-nextarch.io stores the data that will populate the [collaborators list](https://nextarch.io/). Collaborators can update their listing by submitting a [PR for approval]().
+nextarch.io stores the data that will populate the [collaborators list](https://nextarch.io/). Collaborators can update their listing by submitting a [PR for approval](https://github.com/nextarch/collaborators/blob/main/collaborators%20list.md).
 
 ## Meeting and Working Doc
 The collaborators meets every other Tuesday at 1pm Pacific Time 「need to be modified」.
