@@ -1,8 +1,6 @@
 # NextArch Collaborators
 NextArch Collaborators will be committed to working in the open on GitHub: https://github.com/nextarch/collaborators
 
-## Collaborators Lists
-nextarch.io stores the data that will populate the [collaborators list](https://nextarch.io/). Collaborators can update their listing by submitting a [PR for approval](https://github.com/nextarch/collaborators/blob/main/collaborators%20list.md).
 
 ## Meeting and Working Doc
 The collaborators meets every other Tuesday at 1pm Pacific Time 「need to be modified」.
@@ -10,6 +8,9 @@ The collaborators meets every other Tuesday at 1pm Pacific Time 「need to be mo
 Working Doc and Agenda: TBD（Before each meeting, collaborators can put forward the questions you need to discuss with others in Working Doc）
 
 Zoom Meeting: TBD
+
+## Collaborator Lists
+nextarch.io stores the data that will populate the [collaborators list](https://nextarch.io/). Collaborators can update their listing by submitting a [PR for approval](collaborators-list.md).
 
 ## Collaborator Logos
 1. Upload your headshot image to the /images/ directory with a filename made up of your name. Images should be at least 500x500px, 72dpi, and should be in SVG format with file size less than 100kB.
