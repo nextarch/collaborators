@@ -1,13 +1,22 @@
 # NextArch Collaborators
 NextArch Collaborators will be committed to working in the open on GitHub: https://github.com/nextarch/collaborators
 
+## Collaborators meetings
 
-## Meeting and Working Doc
-The collaborators meets every other Tuesday at 1pm Pacific Time 「need to be modified」.
+The Collaborators will be committed to working in the open on GitHub: https://github.com/nextarch/collaborators
 
-Working Doc and Agenda: TBD（Before each meeting, collaborators can put forward the questions you need to discuss with others in Working Doc）
+Attendance for Collaborators is required. Meetings are open to anyone.
 
-Zoom Meeting: TBD
+Working Doc and Agenda: TBD
+
+Zoom Meeting: 
+
+- NextArch Collaborator Meeting (Chinese)
+  - Every other Thursday at 06 pm Pacific Time / 10 am UTC+8 Beijing Time.
+  - https://zoom.us/j/92635094476?pwd=bkRwZ3dkSDNydUhyd0JXVFVsck95Zz09
+
+- NextArch Collaborator Meeting (English)
+  - TBD
 
 ## Collaborator Lists
 nextarch.io stores the data that will populate the [collaborators list](https://nextarch.io/). Collaborators can update their listing by submitting a [PR for approval](collaborators-list.md).
