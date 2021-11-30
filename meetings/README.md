@@ -13,4 +13,5 @@ Zoom Meeting:
   - https://zoom.us/j/92635094476?pwd=bkRwZ3dkSDNydUhyd0JXVFVsck95Zz09
 
 - NextArch Collaborator Meeting (English)
-  - TBD
+  - Every other Friday at 07 am Pacific Time / 11 pm UTC+8 Beijing Time.
+  - https://zoom.us/j/96957634694?pwd=cnBLckt2VENNV0k0bWJVcS9ZdUF5dz09
