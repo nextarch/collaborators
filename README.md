@@ -21,7 +21,7 @@ Zoom Meeting:
 [nextarch.io](https://nextarch.io/) display the collaborators list. Collaborators can update their listing by submitting a [PR for approval](collaborators-list.md).
 
 ## Collaborator Logos
-1. Upload your headshot image to the /images/ directory with a filename made up of your name. Images should be at least 500x500px, 72dpi, and should be in SVG format with file size less than 100kB.
+1. Upload your company's logo to the `logos` directory with a filename made up of your company's name. Images should be at least 500x500px, 72dpi, and should be in SVG format with file size less than 100kB.
 2. We require SVGs, as they are smaller, display correctly at any scale, and work on all modern browsers. If you only have the logo in another vector format (like AI or EPS), you can often convert it yourself at https://cloudconvert.com/. Please note that we require pure SVGs and will reject SVGs that contain embedded PNGs, since they have the same problems of being bigger and not scaling seamlessly. We also require that SVGs convert fonts to outlines so that they will render correctly whether or not a font is installed. See Don't Use SVGs with Embedded Text below.
 3. When multiple variants exist, use stacked (not horizontal) logos. For example, we use the second column (stacked), not the first (horizontal).
 4. Don't use reversed logos (i.e., with a non-white, non-transparent background color).
