@@ -12,12 +12,12 @@ Zoom Meeting:
 - NextArch Collaborator Meeting (Chinese)
   - Every other Thursday at 06 pm Pacific Time / 10 am UTC+8 Beijing Time.
   - https://zoom.us/j/92635094476?pwd=bkRwZ3dkSDNydUhyd0JXVFVsck95Zz09
-  - Add this meeting to your calendar by [downloading the iCalendar file](meetings/NextArch%20Collaborator%20Meeting%20(Chinese).ics).
+  - Add this meeting to your calendar by downloading [NextArch Collaborator Meeting (Chinese).ics](meetings/NextArch%20Collaborator%20Meeting%20(Chinese).ics).
 
 - NextArch Collaborator Meeting (English)
   - Every other Friday at 07 am Pacific Time / 11 pm UTC+8 Beijing Time.
   - https://zoom.us/j/96957634694?pwd=cnBLckt2VENNV0k0bWJVcS9ZdUF5dz09
-  - Add this meeting to your calendar by [downloading the iCalendar file](meetings/NextArch%20Collaborator%20Meeting%20(English).ics).
+  - Add this meeting to your calendar by downloading [NextArch Collaborator Meeting (English).ics](meetings/NextArch%20Collaborator%20Meeting%20(English).ics).
 
 ## Collaborator Lists
 [nextarch.io](https://nextarch.io/) display the collaborators list. Collaborators can update their listing by submitting a [PR for approval](collaborators-list.md).
