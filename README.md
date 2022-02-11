@@ -9,15 +9,10 @@ Working Doc and Agenda: https://docs.google.com/document/d/1P9OfYXnXmYO8l0fdijG8
 
 Zoom Meeting: 
 
-- NextArch Collaborator Meeting (Chinese)
-  - Every other Thursday at 06 pm Pacific Time / 10 am UTC+8 Beijing Time.
+- NextArch Collaborator Meeting
+  - Every other Wednesday 6PM PST / Thursday 10AM China Time / Thursday 7:30AM IST.
   - https://zoom.us/j/92635094476?pwd=bkRwZ3dkSDNydUhyd0JXVFVsck95Zz09
-  - Add this meeting to your calendar by downloading [NextArch Collaborator Meeting (Chinese).ics](https://zoom.us/meeting/tJYrdOyopz8uHdIw3jRAnZpCgMK5ZdqCCIXO/ics?icsToken=98tyKuCqqDgvGt2RtB6BRowQBIjCZ_TxmClbgqd0i0zvMQFdWBPVMc9pZ4h7Afvz).
-
-- NextArch Collaborator Meeting (English)
-  - Every other Friday at 07 am Pacific Time / 11 pm UTC+8 Beijing Time.
-  - https://zoom.us/j/96957634694?pwd=cnBLckt2VENNV0k0bWJVcS9ZdUF5dz09
-  - Add this meeting to your calendar by downloading [NextArch Collaborator Meeting (English).ics](https://zoom.us/meeting/tJIkcu6urT8sE9CyzO9O0bFvhd7mV_dMYz_v/ics?icsToken=98tyKuCupz4tHNeRthCDRowAHY_4KO7ztildj_p-hQXKWg8DYCXgPuYVP4RAFPXp).
+  - Add this meeting to your calendar by downloading [NextArch Collaborator Meeting.ics](https://zoom.us/meeting/tJYrdOyopz8uHdIw3jRAnZpCgMK5ZdqCCIXO/ics?icsToken=98tyKuCqqDgvGt2RtB6BRowQBIjCZ_TxmClbgqd0i0zvMQFdWBPVMc9pZ4h7Afvz).
 
 ## Collaborator Lists
 [nextarch.io](https://nextarch.io/) display the collaborators list. Collaborators can update their listing by submitting a [PR for approval](collaborators-list.md).
